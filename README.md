@@ -2,7 +2,7 @@
 
 A production-style **multi-agent customer support system** built with the [Strands Agents SDK](https://github.com/strands-agents/sdk-python) and **Amazon Bedrock AgentCore**. An Orchestrator agent understands each customer request, routes it to specialist worker agents, and hands the collected findings to a Communication agent that writes the final reply.
 
-> Capstone project for Udacity's *Future AWS Agent Engineer* program. Result: **120/120 on the automated test suite, passed project review.**
+> Project for the **Future AWS Agent Engineer** program (a Udacity Nanodegree sponsored by AWS). Result: **120/120 on the automated test suite, passed project review.**
 
 ---
 
@@ -197,7 +197,7 @@ Delete the Knowledge Bases manually if they were created outside the stack.
 
 ## Credits
 
-Project brief, starter code, CloudFormation template, seed data, test suite and diagrams are provided by **Udacity** (School of AI, Capstone Project 3.3). My implementation is in `src/agent_orchestrator.py`.
+Project brief, starter code, CloudFormation template, seed data, test suite and diagrams are provided by **Udacity** (Future AWS Agent Engineer program). My implementation is in `src/agent_orchestrator.py`.
 
 ## Author
 
