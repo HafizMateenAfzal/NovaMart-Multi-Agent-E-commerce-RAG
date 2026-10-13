@@ -202,4 +202,4 @@ Project brief, starter code, CloudFormation template, seed data, test suite and 
 ## Author
 
 **Hafiz Mateen Afzal**
-LinkedIn: _add your link_ | GitHub: _add your link_
+[LinkedIn](https://www.linkedin.com/in/hafizmateena/) | [GitHub](https://github.com/HafizMateenAfzal)
