@@ -36,6 +36,7 @@ InventoryAgent     PolicyAgent      RefundAgent       CommunicationAgent
 
 Shared state: DynamoDB WorkflowState table with optimistic locking
 ```
+  ![Architecture](diagrams/architecture-overview.png)
 
 ### Agents
 
@@ -95,6 +96,7 @@ Screenshots are in [`screenshots/`](screenshots/):
 - `tests_120_1.png` to `tests_120_5.png`: the full test run ending at 120/120
 - `xray_map_full.png`, `xray_map_top.png`, `xray_map_bottom.png`: X-Ray trace map
 - `xray_list.png`: trace map list view
+![X-Ray service map](screenshots/xray_map_full.png)
 
 ## Project structure
 
